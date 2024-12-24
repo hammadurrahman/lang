@@ -10,3 +10,4 @@ class PluginTest extends BaseTestCase
 {
     protected string $base_path = __DIR__ . '/../';
 }
+use LaravelLang\StatusGeneratorTests\TestCase as BaseTestCase;
